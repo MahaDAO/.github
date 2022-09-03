@@ -1,12 +1,5 @@
-## Hi there 👋
+# Welcome to MahaDAO
 
-<!--
+We are a decentralized organisation on a mission towards financial liberty together with $ARTH and $MAHA.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is our Github repository. Here are a few quick links to help you navigate around.
